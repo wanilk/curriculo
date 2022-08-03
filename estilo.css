@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.menu{
+    background-color: #718387;
+    padding: 10px;
+}
+
+.link{
+    color: white;
+    text-decoration: none;
+}
+
+.link:hover{
+    background-color: blueviolet;
+}
+
+.cabecalho{
+    background-color: #98336c;
+    background: linear-gradient(90deg, #486288 0%, #98336C 100%);
+}
